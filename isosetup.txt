@@ -1,0 +1,8 @@
+[ 6/19 05:03:12] 760.764>  - In LsapSetRandomDomainSid()
+[ 6/19 05:03:12] 760.764>  - LsapGenerateRandomDomainSid: RtlAllocateAndInitializeSid returned 0x0
+[ 6/19 05:03:12] 760.764>  - LsapSetRandomDomainSid: LsapGenerateRandomDomainSid          returned: 0x0. DomainSid is below.
+[ 6/19 05:03:12] 760.764>  - Sid = S-1-5-21-4240077929-1178964373-2050710672
+[ 6/19 05:03:12] 760.764>  - LsapSetRandomDomainSid: Got lsasrv.dll module? 1
+[ 6/19 05:03:12] 760.764>  - LsapSetRandomDomainSid: LsapGetMessageStrings returned 0x0
+[ 6/19 05:03:12] 760.764>  - LsapSetRandomDomainSid: LsarSetInformationPolicy returned 0x0
+[ 6/19 05:03:12] 760.764>  - LsapSetRandomDomainSid: returning 0x0
